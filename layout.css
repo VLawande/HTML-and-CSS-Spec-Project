@@ -1,0 +1,41 @@
+.topStuff{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    border: 0px;
+}
+.topLogo{
+    position: relative;
+    padding: 3px;
+    margin: 0px;
+    width: 120px;
+    text-align: center;
+    height: 25px;
+    margin-left: 10%;
+    top: 0%;
+    border: 2px solid black;
+}
+
+.signIn{
+    position: relative;
+    width: 120px;
+    text-align: center;
+    height: 25px;
+    padding: 3px;
+    margin: 0%;
+    margin-right: 10%;
+    top: 0%;
+    border: 2px solid black;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 0px;
+    margin: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
