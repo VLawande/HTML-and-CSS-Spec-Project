@@ -39,3 +39,45 @@
     border-top: 3px solid black;
     border-bottom: 3px solid black;
 }
+
+h1{
+    position: relative;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid black;
+    width: 600px;
+}
+
+.h1-label{
+    position: relative;
+    left: 35%;
+    display: flex;
+    flex-direction: row;
+}
+
+.fb{
+    position: relative;
+    left: 380px;
+}
+
+.tw{
+    position: relative;
+    left: 400px;
+}
+
+.share{
+    position: relative;
+    left: 420px;
+}
+
+.image{
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 600px;
+    height: 200px;
+    border: 2px solid black;
+}
